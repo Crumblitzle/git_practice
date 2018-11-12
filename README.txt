@@ -1,2 +1,2 @@
 Hello Git and GitHub
-print("Hello world!")
+print("Hello World!")
